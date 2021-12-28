@@ -1,0 +1,12 @@
+.Board {
+    display:block;
+    padding-left: 20px;
+    padding-top: 20px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+.presentation_game {
+    border: solid 2px blue;
+    
+}
