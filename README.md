@@ -3,7 +3,7 @@
 ***
 First code project in React before starting to learn the code through training  💻
 <br><br>
-## OBJECTIF 🎯
+## GOALS 🎯
 ***
 * Completely redo the application with a back in Node.js and a front React with my current technical knowledge.
 <br><br>
