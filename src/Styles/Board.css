@@ -1,12 +1,16 @@
 .Board {
-    display:block;
-    padding-left: 20px;
-    padding-top: 20px;
-    text-align: center;
-    width: 500px;
-    height: 500px;
+  /* display:block; */
+  /* padding-left: 20px;
+    padding-top: 20px; */
+  text-align: center;
+  width: 500px;
+  height: 500px;
+  margin: 0;
 }
 .presentation_game {
-    border: solid 2px blue;
-    
+  border: solid 2px blue;
+}
+.header-Board {
+  color: antiquewhite;
+  margin: 1rem;
 }
